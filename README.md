@@ -9,4 +9,4 @@ interconnected courses, learners develop a profound knowledge
 of the hottest AI algorithms, mastering deep learning from its
 foundations (neural networks) to its industry applications
 (Computer Vision, Natural Language Processing, Speech
-Recognition, etc.)."
+Recognition, etc.)"
